@@ -9,10 +9,9 @@ public class MyMapNode<K, V> implements INode<K> {
      *
      * @param key
      * @param value
-     * @param next
      */
 
-    public MyMapNode(K key, V value, MyMapNode<K, V> next) {
+    public MyMapNode(K key, V value) {
         this.key = key;
         this.value = value;
         this.next = null;
