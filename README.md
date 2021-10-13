@@ -1,2 +1,2 @@
 # JavaAssignment15
-Hash Table and Binary Tree
+Hash Table
